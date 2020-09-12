@@ -15,7 +15,7 @@ As a result, we have: a cash accounting application within different categories,
 - [`Firebase`](https://firebase.google.com/): A platform developed by Google for creating mobile and web applications;
 - [`materialize-css`](https://materializecss.com/): A modern responsive front-end framework based on Material Design;
 - [`lodash`](https://lodash.com/): A modern JavaScript utility library delivering modularity, performance & extras;
-- [`Fixer.io API`](https://fixer.io/):A simple and lightweight API for current and historical foreign exchange (forex) rates;
+- [`Fixer.io API`](https://fixer.io/):A simple and lightweight API for current and historical foreign exchange (forex) rates.
 
 ## Project setup
 
@@ -48,9 +48,15 @@ firebase login
 firebase init
 firebase deploy
 ```
-
 **note:** `deploy` after `build`.
 
-### Customize configuration
+### Environment
+If you want to play with repo, you will need to create `.env` file in the root and fill variables:
+- `VUE_APP_FIREBASE_API_KEY`: for linked Firebase ecosystem;
+- `VUE_APP_FIXER`: for linked currency exchange rate from Fixer API;
+- `VUE_APP_TITLE`: for the app title.
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### ToDos
+- [ ] Finish all objects localization into EN
+- [ ] Setup [Firebase env](https://firebase.google.com/docs/functions/config-env) to store environment data
