@@ -1,0 +1,20 @@
+{
+    "CategoriesTitle": "Categories",
+    "DetailTitle": "Detail",
+    "HistoryTitle": "History",
+    "HomeTitle": "Home",
+    "LoginTitle": "Login",
+    "PlanningTitle": "Planning",
+    "ProfileTitle": "Profile",
+    "RecordTitle": "Record",
+    "RegisterTitle": "Register",
+
+    "Name": "Name",
+    "Message_EnterName": "Enter name",
+    "Update": "Update",
+    "Menu_Bill": "Bill",
+    "Menu_History": "History",
+    "Menu_Planning": "Planning",
+    "Menu_Record": "New record",
+    "Menu_Categories": "Categories"
+}

@@ -1,0 +1,21 @@
+{
+    "CategoriesTitle": "Категории",
+    "DetailTitle": "Подробно",
+    "HistoryTitle": "История",
+    "HomeTitle": "Начальная",
+    "LoginTitle": "Логин",
+    "PlanningTitle": "Планирование",
+    "ProfileTitle": "Профиль",
+    "RecordTitle": "Запись",
+    "RegisterTitle": "Регистрация",
+
+    "Name": "Имя",
+    "Message_EnterName": "Ввидите имя",
+    "Update": "Обновить",
+    "Menu_Bill": "Счет",
+    "Menu_History": "История",
+    "Menu_Planning": "Планирование",
+    "Menu_Record": "Новая запись",
+    "Menu_Categories": "Категории"
+
+}
