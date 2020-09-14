@@ -58,5 +58,6 @@ If you want to play with repo, you will need to create `.env` file in the root a
 
 
 ### ToDos
+- [ ] Write up a manual on major operations
 - [ ] Finish all objects localization into EN
 - [ ] Setup [Firebase env](https://firebase.google.com/docs/functions/config-env) to store environment data
